@@ -1,4 +1,4 @@
-const geo = require("./lib/Geo.js/index.js");
+const geo = require("./lib/Geo");
 const stl = require("./lib/stlParser");
 const IO = require("./lib/IO");
 
